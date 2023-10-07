@@ -1,11 +1,11 @@
-About similaritymeasures
-========================
+About similaritymeasures-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/similaritymeasures-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cjekel/similarity_measures
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/similaritymeasures-feedstock/blob/main/LICENSE.txt)
 
 Summary: Quantify the difference between two arbitrary curves in space
 
