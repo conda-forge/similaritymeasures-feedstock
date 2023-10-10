@@ -1,5 +1,5 @@
 {% set name = "similaritymeasures" %}
-{% set version = "0.7.0" %}
+{% set version = "1.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/similaritymeasures-{{ version }}.tar.gz
-  sha256: 44cbbc472abe8d2f0a4ebcae8ee34457e793dfd5cf47d15de00c1ac3973e59ea
+  sha256: f29bb013eff1668a2b882631f5ec70c5462ebc53bb2e4306c2b1ca89e178cc56
 
 build:
   number: 0
